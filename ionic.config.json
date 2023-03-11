@@ -1,0 +1,7 @@
+{
+  "name": "minimal-kit-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
